@@ -1,0 +1,741 @@
+2022-12-29T16:02:18.785Z - info: [12:02:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:02:18.797Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:02:18.797Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:02:18.797Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:02:19.810Z - info: Rebuilding 1 pages
+2022-12-29T16:02:20.080Z - info: Site data built
+2022-12-29T16:02:20.080Z - info: Pages rebuilt
+2022-12-29T16:02:20.080Z - info: Website regeneration complete! Total build time: 0.272s
+2022-12-29T16:03:17.701Z - info: [12:03:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:03:17.701Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:03:17.701Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:03:17.701Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:03:18.772Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-12-29T16:03:18.775Z - info: Rebuilding 1 pages
+2022-12-29T16:03:19.005Z - info: Site data built
+2022-12-29T16:03:19.006Z - info: Pages rebuilt
+2022-12-29T16:03:19.006Z - info: Website regeneration complete! Total build time: 0.297s
+2022-12-29T16:03:34.518Z - info: [12:03:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:03:34.518Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:03:34.518Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:03:34.518Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:03:35.604Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-12-29T16:03:35.607Z - info: Rebuilding 1 pages
+2022-12-29T16:03:35.787Z - info: Site data built
+2022-12-29T16:03:35.788Z - info: Pages rebuilt
+2022-12-29T16:03:35.788Z - info: Website regeneration complete! Total build time: 0.26s
+2022-12-29T16:03:59.800Z - info: [12:03:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:03:59.800Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:03:59.800Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:03:59.800Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:04:00.876Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-12-29T16:04:00.879Z - info: Rebuilding 1 pages
+2022-12-29T16:04:01.038Z - info: Site data built
+2022-12-29T16:04:01.038Z - info: Pages rebuilt
+2022-12-29T16:04:01.038Z - info: Website regeneration complete! Total build time: 0.237s
+2022-12-29T16:04:47.429Z - info: [12:04:47 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:04:47.430Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:04:47.430Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:04:47.430Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:04:52.935Z - info: Pages or site config modified, updating pages...
+2022-12-29T16:04:57.524Z - info: [12:04:57 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:04:57.524Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:04:57.524Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:04:57.524Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:05:01.690Z - info: [12:05:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:05:01.690Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:05:01.690Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:05:01.690Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:05:01.743Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\requirements as some of its dependencies were changed since the last visit
+2022-12-29T16:05:02.146Z - info: Site data built
+2022-12-29T16:05:02.146Z - info: Lazy website regeneration complete! Total build time: 0.404s
+2022-12-29T16:05:02.670Z - info: Pages or site config modified, updating pages...
+2022-12-29T16:05:06.927Z - info: Rebuilding 1 pages
+2022-12-29T16:05:07.151Z - info: Site data built
+2022-12-29T16:05:07.151Z - info: Pages rebuilt
+2022-12-29T16:05:07.151Z - info: Website regeneration complete! Total build time: 0.225s
+2022-12-29T16:05:07.955Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\requirements as some of its dependencies were changed since the last visit
+2022-12-29T16:05:08.067Z - info: Site data built
+2022-12-29T16:05:08.067Z - info: Lazy website regeneration complete! Total build time: 0.112s
+2022-12-29T16:06:06.962Z - info: [12:06:06 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:06:06.963Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:06:06.963Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:06:06.963Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:06:06.979Z - info: [12:06:06 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:06:06.979Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:06:06.979Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:06:06.979Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:06:08.113Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-12-29T16:06:08.117Z - info: Rebuilding 1 pages
+2022-12-29T16:06:08.417Z - info: Site data built
+2022-12-29T16:06:08.417Z - info: Pages rebuilt
+2022-12-29T16:06:08.417Z - info: Website regeneration complete! Total build time: 0.446s
+2022-12-29T16:06:37.053Z - info: [12:06:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-12-29T16:06:37.054Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:06:37.054Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:06:37.054Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:06:37.076Z - info: [12:06:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:06:37.076Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:06:37.076Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:06:37.076Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:06:38.139Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-12-29T16:06:38.142Z - info: Rebuilding 1 pages
+2022-12-29T16:06:38.361Z - info: Site data built
+2022-12-29T16:06:38.361Z - info: Pages rebuilt
+2022-12-29T16:06:38.361Z - info: Website regeneration complete! Total build time: 0.306s
+2022-12-29T16:09:40.255Z - info: [12:09:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:09:40.255Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:09:40.255Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:09:40.255Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:09:41.262Z - info: Rebuilding 1 pages
+2022-12-29T16:09:41.530Z - info: Site data built
+2022-12-29T16:09:41.530Z - info: Pages rebuilt
+2022-12-29T16:09:41.530Z - info: Website regeneration complete! Total build time: 0.269s
+2022-12-29T16:09:51.567Z - info: [12:09:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:09:51.568Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:09:51.568Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:09:51.568Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:09:52.589Z - info: Rebuilding 1 pages
+2022-12-29T16:09:52.805Z - info: Site data built
+2022-12-29T16:09:52.805Z - info: Pages rebuilt
+2022-12-29T16:09:52.805Z - info: Website regeneration complete! Total build time: 0.217s
+2022-12-29T16:10:03.858Z - info: [12:10:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:10:03.858Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:10:03.858Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:10:03.859Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:10:04.865Z - info: Rebuilding 1 pages
+2022-12-29T16:10:05.061Z - info: Site data built
+2022-12-29T16:10:05.061Z - info: Pages rebuilt
+2022-12-29T16:10:05.061Z - info: Website regeneration complete! Total build time: 0.196s
+2022-12-29T16:10:16.481Z - info: [12:10:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:10:16.481Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:10:16.481Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:10:16.481Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:10:17.486Z - info: Rebuilding 1 pages
+2022-12-29T16:10:17.713Z - info: Site data built
+2022-12-29T16:10:17.713Z - info: Pages rebuilt
+2022-12-29T16:10:17.713Z - info: Website regeneration complete! Total build time: 0.228s
+2022-12-29T16:10:23.104Z - info: [12:10:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:10:23.104Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:10:23.104Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:10:23.104Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:10:24.109Z - info: Rebuilding 1 pages
+2022-12-29T16:10:24.290Z - info: Site data built
+2022-12-29T16:10:24.290Z - info: Pages rebuilt
+2022-12-29T16:10:24.290Z - info: Website regeneration complete! Total build time: 0.182s
+2022-12-29T16:10:47.885Z - info: [12:10:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:10:47.886Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:10:47.886Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:10:47.886Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:10:48.916Z - info: Rebuilding 1 pages
+2022-12-29T16:10:49.201Z - info: Site data built
+2022-12-29T16:10:49.201Z - info: Pages rebuilt
+2022-12-29T16:10:49.201Z - info: Website regeneration complete! Total build time: 0.286s
+2022-12-29T16:11:03.954Z - info: [12:11:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:11:03.954Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:11:03.954Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:11:03.954Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:11:04.968Z - info: Rebuilding 1 pages
+2022-12-29T16:11:05.192Z - info: Site data built
+2022-12-29T16:11:05.192Z - info: Pages rebuilt
+2022-12-29T16:11:05.192Z - info: Website regeneration complete! Total build time: 0.224s
+2022-12-29T16:11:18.687Z - info: [12:11:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:11:18.688Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:11:18.688Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:11:18.688Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:11:19.696Z - info: Rebuilding 1 pages
+2022-12-29T16:11:19.898Z - info: Site data built
+2022-12-29T16:11:19.898Z - info: Pages rebuilt
+2022-12-29T16:11:19.898Z - info: Website regeneration complete! Total build time: 0.203s
+2022-12-29T16:11:34.151Z - info: [12:11:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:11:34.151Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:11:34.151Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:11:34.153Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:11:35.160Z - info: Rebuilding 1 pages
+2022-12-29T16:11:35.360Z - info: Site data built
+2022-12-29T16:11:35.361Z - info: Pages rebuilt
+2022-12-29T16:11:35.361Z - info: Website regeneration complete! Total build time: 0.202s
+2022-12-29T16:11:44.576Z - info: [12:11:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:11:44.576Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:11:44.576Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:11:44.577Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:11:45.586Z - info: Rebuilding 1 pages
+2022-12-29T16:11:45.875Z - info: Site data built
+2022-12-29T16:11:45.875Z - info: Pages rebuilt
+2022-12-29T16:11:45.875Z - info: Website regeneration complete! Total build time: 0.29s
+2022-12-29T16:12:03.779Z - info: [12:12:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:12:03.780Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:12:03.780Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:12:03.780Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:12:04.784Z - info: Rebuilding 1 pages
+2022-12-29T16:12:04.962Z - info: Site data built
+2022-12-29T16:12:04.962Z - info: Pages rebuilt
+2022-12-29T16:12:04.962Z - info: Website regeneration complete! Total build time: 0.179s
+2022-12-29T16:13:08.427Z - info: [12:13:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:13:08.427Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:13:08.427Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:13:08.427Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:13:09.457Z - info: Rebuilding 1 pages
+2022-12-29T16:13:09.675Z - info: Site data built
+2022-12-29T16:13:09.676Z - info: Pages rebuilt
+2022-12-29T16:13:09.676Z - info: Website regeneration complete! Total build time: 0.219s
+2022-12-29T16:13:19.798Z - info: [12:13:19 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:13:19.798Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:13:19.798Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:13:19.798Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:13:20.813Z - info: Rebuilding 1 pages
+2022-12-29T16:13:21.022Z - info: Site data built
+2022-12-29T16:13:21.022Z - info: Pages rebuilt
+2022-12-29T16:13:21.022Z - info: Website regeneration complete! Total build time: 0.209s
+2022-12-29T16:13:26.322Z - info: [12:13:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:13:26.322Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:13:26.322Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:13:26.322Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:13:27.337Z - info: Rebuilding 1 pages
+2022-12-29T16:13:27.537Z - info: Site data built
+2022-12-29T16:13:27.537Z - info: Pages rebuilt
+2022-12-29T16:13:27.537Z - info: Website regeneration complete! Total build time: 0.202s
+2022-12-29T16:13:36.272Z - info: [12:13:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:13:36.273Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:13:36.273Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:13:36.273Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:13:37.287Z - info: Rebuilding 1 pages
+2022-12-29T16:13:37.553Z - info: Site data built
+2022-12-29T16:13:37.554Z - info: Pages rebuilt
+2022-12-29T16:13:37.554Z - info: Website regeneration complete! Total build time: 0.267s
+2022-12-29T16:13:48.095Z - info: [12:13:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:13:48.095Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:13:48.096Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:13:48.096Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:13:49.104Z - info: Rebuilding 1 pages
+2022-12-29T16:13:49.319Z - info: Site data built
+2022-12-29T16:13:49.319Z - info: Pages rebuilt
+2022-12-29T16:13:49.319Z - info: Website regeneration complete! Total build time: 0.215s
+2022-12-29T16:14:02.894Z - info: [12:14:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:14:02.894Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:14:02.894Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:14:02.897Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:14:03.911Z - info: Rebuilding 1 pages
+2022-12-29T16:14:04.128Z - info: Site data built
+2022-12-29T16:14:04.128Z - info: Pages rebuilt
+2022-12-29T16:14:04.128Z - info: Website regeneration complete! Total build time: 0.218s
+2022-12-29T16:14:20.607Z - info: [12:14:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:14:20.607Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:14:20.607Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:14:20.607Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:14:21.621Z - info: Rebuilding 1 pages
+2022-12-29T16:14:21.817Z - info: Site data built
+2022-12-29T16:14:21.818Z - info: Pages rebuilt
+2022-12-29T16:14:21.818Z - info: Website regeneration complete! Total build time: 0.198s
+2022-12-29T16:14:40.777Z - info: [12:14:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:14:40.777Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:14:40.777Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:14:40.777Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:14:41.784Z - info: Rebuilding 1 pages
+2022-12-29T16:14:42.016Z - info: Site data built
+2022-12-29T16:14:42.017Z - info: Pages rebuilt
+2022-12-29T16:14:42.017Z - info: Website regeneration complete! Total build time: 0.233s
+2022-12-29T16:14:58.151Z - info: [12:14:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:14:58.152Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:14:58.152Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:14:58.152Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:14:59.162Z - info: Rebuilding 1 pages
+2022-12-29T16:14:59.425Z - info: Site data built
+2022-12-29T16:14:59.425Z - info: Pages rebuilt
+2022-12-29T16:14:59.425Z - info: Website regeneration complete! Total build time: 0.264s
+2022-12-29T16:15:09.801Z - info: [12:15:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:15:09.801Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:15:09.801Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:15:09.801Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:15:10.826Z - info: Rebuilding 1 pages
+2022-12-29T16:15:11.094Z - info: Site data built
+2022-12-29T16:15:11.094Z - info: Pages rebuilt
+2022-12-29T16:15:11.094Z - info: Website regeneration complete! Total build time: 0.268s
+2022-12-29T16:15:28.591Z - info: [12:15:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:15:28.591Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:15:28.591Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:15:28.591Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:15:29.597Z - info: Rebuilding 1 pages
+2022-12-29T16:15:29.795Z - info: Site data built
+2022-12-29T16:15:29.795Z - info: Pages rebuilt
+2022-12-29T16:15:29.795Z - info: Website regeneration complete! Total build time: 0.199s
+2022-12-29T16:19:51.206Z - info: [12:19:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:19:51.207Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:19:51.207Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:19:51.207Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:19:52.230Z - info: Rebuilding 1 pages
+2022-12-29T16:19:52.464Z - info: Site data built
+2022-12-29T16:19:52.464Z - info: Pages rebuilt
+2022-12-29T16:19:52.465Z - info: Website regeneration complete! Total build time: 0.235s
+2022-12-29T16:20:26.224Z - info: [12:20:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:20:26.224Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:20:26.224Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:20:26.224Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:20:27.233Z - info: Rebuilding 1 pages
+2022-12-29T16:20:27.428Z - info: Site data built
+2022-12-29T16:20:27.428Z - info: Pages rebuilt
+2022-12-29T16:20:27.428Z - info: Website regeneration complete! Total build time: 0.196s
+2022-12-29T16:20:41.605Z - info: [12:20:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:20:41.605Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:20:41.605Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:20:41.605Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:20:42.620Z - info: Rebuilding 1 pages
+2022-12-29T16:20:42.823Z - info: Site data built
+2022-12-29T16:20:42.824Z - info: Pages rebuilt
+2022-12-29T16:20:42.824Z - info: Website regeneration complete! Total build time: 0.204s
+2022-12-29T16:21:18.491Z - info: [12:21:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:21:18.492Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:21:18.492Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:21:18.492Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:21:19.496Z - info: Rebuilding 1 pages
+2022-12-29T16:21:19.775Z - info: Site data built
+2022-12-29T16:21:19.775Z - info: Pages rebuilt
+2022-12-29T16:21:19.775Z - info: Website regeneration complete! Total build time: 0.281s
+2022-12-29T16:21:40.437Z - info: [12:21:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:21:40.437Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:21:40.438Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:21:40.438Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:21:41.442Z - info: Rebuilding 1 pages
+2022-12-29T16:21:41.682Z - info: Site data built
+2022-12-29T16:21:41.682Z - info: Pages rebuilt
+2022-12-29T16:21:41.682Z - info: Website regeneration complete! Total build time: 0.241s
+2022-12-29T16:22:00.380Z - info: [12:22:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:22:00.380Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:22:00.380Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:22:00.380Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:22:01.396Z - info: Rebuilding 1 pages
+2022-12-29T16:22:01.632Z - info: Site data built
+2022-12-29T16:22:01.632Z - info: Pages rebuilt
+2022-12-29T16:22:01.632Z - info: Website regeneration complete! Total build time: 0.237s
+2022-12-29T16:22:28.139Z - info: [12:22:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:22:28.139Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:22:28.139Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:22:28.139Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:22:29.146Z - info: Rebuilding 1 pages
+2022-12-29T16:22:29.367Z - info: Site data built
+2022-12-29T16:22:29.367Z - info: Pages rebuilt
+2022-12-29T16:22:29.367Z - info: Website regeneration complete! Total build time: 0.222s
+2022-12-29T16:23:08.321Z - info: [12:23:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:23:08.322Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:23:08.322Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:23:08.322Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:23:09.341Z - info: Rebuilding 1 pages
+2022-12-29T16:23:09.616Z - info: Site data built
+2022-12-29T16:23:09.616Z - info: Pages rebuilt
+2022-12-29T16:23:09.616Z - info: Website regeneration complete! Total build time: 0.276s
+2022-12-29T16:23:41.558Z - info: [12:23:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:23:41.558Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:23:41.558Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:23:41.558Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:23:42.569Z - info: Rebuilding 1 pages
+2022-12-29T16:23:42.811Z - info: Site data built
+2022-12-29T16:23:42.811Z - info: Pages rebuilt
+2022-12-29T16:23:42.811Z - info: Website regeneration complete! Total build time: 0.243s
+2022-12-29T16:23:49.979Z - info: [12:23:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:23:49.979Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:23:49.979Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:23:49.979Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:23:50.983Z - info: Rebuilding 1 pages
+2022-12-29T16:23:51.204Z - info: Site data built
+2022-12-29T16:23:51.205Z - info: Pages rebuilt
+2022-12-29T16:23:51.205Z - info: Website regeneration complete! Total build time: 0.223s
+2022-12-29T16:24:11.820Z - info: [12:24:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:24:11.821Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:24:11.821Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:24:11.821Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:24:12.839Z - info: Rebuilding 1 pages
+2022-12-29T16:24:13.058Z - info: Site data built
+2022-12-29T16:24:13.058Z - info: Pages rebuilt
+2022-12-29T16:24:13.058Z - info: Website regeneration complete! Total build time: 0.22s
+2022-12-29T16:24:28.678Z - info: [12:24:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:24:28.678Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:24:28.679Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:24:28.679Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:24:29.686Z - info: Rebuilding 1 pages
+2022-12-29T16:24:29.886Z - info: Site data built
+2022-12-29T16:24:29.886Z - info: Pages rebuilt
+2022-12-29T16:24:29.886Z - info: Website regeneration complete! Total build time: 0.201s
+2022-12-29T16:24:45.911Z - info: [12:24:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:24:45.911Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:24:45.911Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:24:45.911Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:24:46.931Z - info: Rebuilding 1 pages
+2022-12-29T16:24:47.209Z - info: Site data built
+2022-12-29T16:24:47.209Z - info: Pages rebuilt
+2022-12-29T16:24:47.210Z - info: Website regeneration complete! Total build time: 0.279s
+2022-12-29T16:25:16.886Z - info: [12:25:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-12-29T16:25:16.886Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:25:16.886Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:25:16.886Z - info: 1. se-book-adapted/chapters/requirements
+2022-12-29T16:25:17.893Z - info: Rebuilding 1 pages
+2022-12-29T16:25:18.107Z - info: Site data built
+2022-12-29T16:25:18.108Z - info: Pages rebuilt
+2022-12-29T16:25:18.108Z - info: Website regeneration complete! Total build time: 0.216s
+2022-12-29T16:25:41.284Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\requirements-printable as some of its dependencies were changed since the last visit
+2022-12-29T16:25:41.645Z - info: Site data built
+2022-12-29T16:25:41.646Z - info: Lazy website regeneration complete! Total build time: 0.362s
+2022-12-29T16:25:59.463Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-12-29T16:26:00.024Z - info: Site data built
+2022-12-29T16:26:00.024Z - info: Lazy website regeneration complete! Total build time: 0.562s
+2022-12-29T16:26:42.419Z - info: [12:26:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-12-29T16:26:42.420Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:26:42.420Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:26:42.420Z - info: 1. admin/index
+2022-12-29T16:26:43.618Z - info: Rebuilding 1 pages
+2022-12-29T16:26:43.834Z - info: Site data built
+2022-12-29T16:26:43.834Z - info: Pages rebuilt
+2022-12-29T16:26:43.834Z - info: Website regeneration complete! Total build time: 0.217s
+2022-12-29T16:27:39.762Z - info: [12:27:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-12-29T16:27:39.763Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:27:39.763Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:27:39.763Z - info: 1. admin/index
+2022-12-29T16:27:41.023Z - info: Rebuilding 1 pages
+2022-12-29T16:27:41.282Z - info: Site data built
+2022-12-29T16:27:41.282Z - info: Pages rebuilt
+2022-12-29T16:27:41.282Z - info: Website regeneration complete! Total build time: 0.26s
+2022-12-29T16:27:51.320Z - info: [12:27:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-12-29T16:27:51.320Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:27:51.321Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:27:51.321Z - info: 1. admin/index
+2022-12-29T16:27:52.503Z - info: Rebuilding 1 pages
+2022-12-29T16:27:52.714Z - info: Site data built
+2022-12-29T16:27:52.714Z - info: Pages rebuilt
+2022-12-29T16:27:52.714Z - info: Website regeneration complete! Total build time: 0.212s
+2022-12-29T16:28:12.732Z - info: [12:28:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-12-29T16:28:12.732Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:28:12.733Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:28:12.733Z - info: 1. admin/index
+2022-12-29T16:28:13.888Z - info: Rebuilding 1 pages
+2022-12-29T16:28:14.094Z - info: Site data built
+2022-12-29T16:28:14.095Z - info: Pages rebuilt
+2022-12-29T16:28:14.095Z - info: Website regeneration complete! Total build time: 0.207s
+2022-12-29T16:28:27.264Z - info: [12:28:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-12-29T16:28:27.264Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:28:27.264Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:28:27.265Z - info: 1. admin/index
+2022-12-29T16:28:28.517Z - info: Rebuilding 1 pages
+2022-12-29T16:28:28.756Z - info: Site data built
+2022-12-29T16:28:28.756Z - info: Pages rebuilt
+2022-12-29T16:28:28.756Z - info: Website regeneration complete! Total build time: 0.24s
+2022-12-29T16:28:37.799Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview as some of its dependencies were changed since the last visit
+2022-12-29T16:28:38.101Z - info: Site data built
+2022-12-29T16:28:38.101Z - info: Lazy website regeneration complete! Total build time: 0.303s
+2022-12-29T16:28:43.761Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations as some of its dependencies were changed since the last visit
+2022-12-29T16:28:43.942Z - info: Site data built
+2022-12-29T16:28:43.942Z - info: Lazy website regeneration complete! Total build time: 0.182s
+2022-12-29T16:30:18.158Z - info: [12:30:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite.md
+2022-12-29T16:30:18.158Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:30:18.158Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:30:18.158Z - info: 1. admin/moduleExpectations
+2022-12-29T16:30:19.171Z - info: Assets built
+2022-12-29T16:31:11.369Z - info: [12:31:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:31:11.369Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:31:11.370Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:31:11.370Z - info: 1. admin/moduleExpectations
+2022-12-29T16:31:12.384Z - info: Rebuilding 1 pages
+2022-12-29T16:31:12.556Z - info: Site data built
+2022-12-29T16:31:12.557Z - info: Pages rebuilt
+2022-12-29T16:31:12.557Z - info: Website regeneration complete! Total build time: 0.175s
+2022-12-29T16:32:30.059Z - info: [12:32:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:32:30.060Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:32:30.060Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:32:30.060Z - info: 1. admin/moduleExpectations
+2022-12-29T16:32:31.074Z - info: Rebuilding 1 pages
+2022-12-29T16:32:31.203Z - info: Site data built
+2022-12-29T16:32:31.203Z - info: Pages rebuilt
+2022-12-29T16:32:31.203Z - info: Website regeneration complete! Total build time: 0.13s
+2022-12-29T16:33:32.038Z - info: [12:33:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:33:32.039Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:33:32.040Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:33:32.040Z - info: 1. admin/moduleExpectations
+2022-12-29T16:33:33.048Z - info: Rebuilding 1 pages
+2022-12-29T16:33:33.199Z - info: Site data built
+2022-12-29T16:33:33.199Z - info: Pages rebuilt
+2022-12-29T16:33:33.199Z - info: Website regeneration complete! Total build time: 0.151s
+2022-12-29T16:33:56.437Z - info: [12:33:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:33:56.437Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:33:56.438Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:33:56.438Z - info: 1. admin/moduleExpectations
+2022-12-29T16:33:57.447Z - info: Rebuilding 1 pages
+2022-12-29T16:33:57.659Z - info: Site data built
+2022-12-29T16:33:57.660Z - info: Pages rebuilt
+2022-12-29T16:33:57.660Z - info: Website regeneration complete! Total build time: 0.213s
+2022-12-29T16:34:57.880Z - info: [12:34:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:34:57.880Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:34:57.880Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:34:57.880Z - info: 1. admin/moduleExpectations
+2022-12-29T16:34:58.891Z - info: Rebuilding 1 pages
+2022-12-29T16:34:59.079Z - info: Site data built
+2022-12-29T16:34:59.079Z - info: Pages rebuilt
+2022-12-29T16:34:59.080Z - info: Website regeneration complete! Total build time: 0.189s
+2022-12-29T16:35:39.970Z - info: [12:35:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:35:39.970Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:35:39.970Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:35:39.971Z - info: 1. admin/moduleExpectations
+2022-12-29T16:35:40.977Z - info: Rebuilding 1 pages
+2022-12-29T16:35:41.144Z - info: Site data built
+2022-12-29T16:35:41.144Z - info: Pages rebuilt
+2022-12-29T16:35:41.144Z - info: Website regeneration complete! Total build time: 0.168s
+2022-12-29T16:36:18.857Z - info: [12:36:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:36:18.857Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:36:18.857Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:36:18.857Z - info: 1. admin/moduleExpectations
+2022-12-29T16:36:19.879Z - info: Rebuilding 1 pages
+2022-12-29T16:36:20.080Z - info: Site data built
+2022-12-29T16:36:20.080Z - info: Pages rebuilt
+2022-12-29T16:36:20.080Z - info: Website regeneration complete! Total build time: 0.203s
+2022-12-29T16:37:12.857Z - info: [12:37:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-12-29T16:37:12.857Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:37:12.857Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:37:12.857Z - info: 1. admin/moduleExpectations
+2022-12-29T16:37:13.874Z - info: Assets built
+2022-12-29T16:37:38.509Z - info: [12:37:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:37:38.509Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:37:38.510Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:37:38.510Z - info: 1. admin/moduleExpectations
+2022-12-29T16:37:39.520Z - info: Rebuilding 1 pages
+2022-12-29T16:37:39.686Z - info: Site data built
+2022-12-29T16:37:39.686Z - info: Pages rebuilt
+2022-12-29T16:37:39.686Z - info: Website regeneration complete! Total build time: 0.167s
+2022-12-29T16:37:47.592Z - info: [12:37:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:37:47.592Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:37:47.592Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:37:47.593Z - info: 1. admin/moduleExpectations
+2022-12-29T16:37:48.602Z - info: Rebuilding 1 pages
+2022-12-29T16:37:48.743Z - info: Site data built
+2022-12-29T16:37:48.743Z - info: Pages rebuilt
+2022-12-29T16:37:48.743Z - info: Website regeneration complete! Total build time: 0.142s
+2022-12-29T16:39:38.994Z - info: [12:39:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-12-29T16:39:38.994Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:39:38.995Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:39:38.995Z - info: 1. admin/moduleExpectations
+2022-12-29T16:39:39.026Z - info: [12:39:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite.md
+2022-12-29T16:39:39.026Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:39:39.026Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:39:39.026Z - info: 1. admin/moduleExpectations
+2022-12-29T16:39:39.048Z - info: [12:39:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:39:39.048Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:39:39.049Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:39:39.049Z - info: 1. admin/moduleExpectations
+2022-12-29T16:39:39.997Z - info: Assets built
+2022-12-29T16:39:40.065Z - info: Rebuilding 1 pages
+2022-12-29T16:39:40.214Z - info: Site data built
+2022-12-29T16:39:40.214Z - info: Pages rebuilt
+2022-12-29T16:39:40.214Z - info: Website regeneration complete! Total build time: 0.15s
+2022-12-29T16:39:58.146Z - info: [12:39:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:39:58.146Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:39:58.146Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:39:58.146Z - info: 1. admin/moduleExpectations
+2022-12-29T16:39:59.164Z - info: Rebuilding 1 pages
+2022-12-29T16:39:59.333Z - info: Site data built
+2022-12-29T16:39:59.333Z - info: Pages rebuilt
+2022-12-29T16:39:59.333Z - info: Website regeneration complete! Total build time: 0.169s
+2022-12-29T16:41:12.457Z - info: [12:41:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule.md
+2022-12-29T16:41:12.457Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:41:12.458Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:41:12.458Z - info: 1. admin/moduleExpectations
+2022-12-29T16:41:12.482Z - info: [12:41:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2022-12-29T16:41:12.483Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:41:12.483Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:41:12.483Z - info: 1. admin/moduleExpectations
+2022-12-29T16:41:13.477Z - info: Assets built
+2022-12-29T16:42:58.820Z - info: [12:42:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-29T16:42:58.820Z - info: Synchronizing opened pages list before reload
+2022-12-29T16:42:58.820Z - info: Current opened pages, from most-to-least recent:
+2022-12-29T16:42:58.820Z - info: 1. admin/moduleExpectations
+2022-12-29T16:42:59.826Z - info: Rebuilding 1 pages
+2022-12-29T16:42:59.982Z - info: Site data built
+2022-12-29T16:42:59.982Z - info: Pages rebuilt
+2022-12-29T16:42:59.983Z - info: Website regeneration complete! Total build time: 0.157s
+2022-12-29T16:43:09.309Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-12-29T16:43:09.456Z - info: Site data built
+2022-12-29T16:43:09.456Z - info: Lazy website regeneration complete! Total build time: 0.147s
+2022-12-29T16:43:12.564Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\modeling as some of its dependencies were changed since the last visit
+2022-12-29T16:43:18.361Z - debug:  
+2022-12-29T16:43:18.366Z - debug:  
+2022-12-29T16:43:18.366Z - debug:  
+2022-12-29T16:43:18.379Z - debug:  
+2022-12-29T16:43:18.467Z - info: Site data built
+2022-12-29T16:43:18.468Z - info: Lazy website regeneration complete! Total build time: 5.904s
+2022-12-29T16:43:49.911Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\errorHandling-printable as some of its dependencies were changed since the last visit
+2022-12-29T16:43:50.644Z - info: Site data built
+2022-12-29T16:43:50.644Z - info: Lazy website regeneration complete! Total build time: 0.733s
+2022-12-29T16:44:13.860Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite as some of its dependencies were changed since the last visit
+2022-12-29T16:44:14.478Z - info: Site data built
+2022-12-29T16:44:14.478Z - info: Lazy website regeneration complete! Total build time: 0.619s
+2022-12-29T16:44:26.296Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule as some of its dependencies were changed since the last visit
+2022-12-29T16:44:26.791Z - info: Site data built
+2022-12-29T16:44:26.792Z - info: Lazy website regeneration complete! Total build time: 0.496s
+2022-12-29T16:45:20.627Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2022-12-29T16:45:21.614Z - info: Site data built
+2022-12-29T16:45:21.614Z - info: Lazy website regeneration complete! Total build time: 0.987s
+2022-12-29T16:45:25.718Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\admin as some of its dependencies were changed since the last visit
+2022-12-29T16:45:26.505Z - info: Site data built
+2022-12-29T16:45:26.505Z - info: Lazy website regeneration complete! Total build time: 0.787s
+2022-12-29T16:45:36.451Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\topics as some of its dependencies were changed since the last visit
+2022-12-29T16:45:38.773Z - info: Site data built
+2022-12-29T16:45:38.773Z - info: Lazy website regeneration complete! Total build time: 2.322s
+2022-12-29T16:45:56.714Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\project as some of its dependencies were changed since the last visit
+2022-12-29T16:45:58.259Z - info: Site data built
+2022-12-29T16:45:58.259Z - info: Lazy website regeneration complete! Total build time: 1.545s
+2022-12-29T16:46:10.103Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\tutorial as some of its dependencies were changed since the last visit
+2022-12-29T16:46:10.323Z - info: Site data built
+2022-12-29T16:46:10.323Z - info: Lazy website regeneration complete! Total build time: 0.22s
+2022-12-29T16:51:44.519Z - info: Website generation (lazy) started at 12:51:42 am
+2022-12-29T16:51:56.679Z - info: Building assets...
+2022-12-29T16:52:04.122Z - info: Assets built
+2022-12-29T16:52:04.123Z - info: Generating landing page...
+2022-12-29T16:52:04.867Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-12-29T16:52:06.049Z - info: Site data built
+2022-12-29T16:52:06.050Z - info: Website generation (lazy) complete! Total build time: 23.682s
+2022-12-29T16:52:07.128Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-12-29T16:52:07.129Z - info: Press CTRL+C to stop ...
+2022-12-29T17:20:47.538Z - info: Website generation started at 1:20:45 am
+2022-12-29T17:20:58.983Z - info: Building assets...
+2022-12-29T17:21:07.307Z - info: Assets built
+2022-12-29T17:21:07.308Z - info: Generating pages...
+2022-12-29T17:21:17.187Z - debug:  
+2022-12-29T17:21:17.188Z - debug:  
+2022-12-29T17:21:17.205Z - debug:  
+2022-12-29T17:21:17.205Z - debug:  
+2022-12-29T17:21:17.215Z - debug:  
+2022-12-29T17:21:19.141Z - debug:  
+2022-12-29T17:21:19.141Z - debug:  
+2022-12-29T17:21:19.141Z - debug:  
+2022-12-29T17:21:19.141Z - debug:  
+2022-12-29T17:21:19.142Z - debug:  
+2022-12-29T17:21:19.142Z - debug:  
+2022-12-29T17:21:19.142Z - debug:  
+2022-12-29T17:23:18.907Z - debug:  
+2022-12-29T17:23:31.237Z - debug:  
+2022-12-29T17:23:31.237Z - debug:  
+2022-12-29T17:23:36.877Z - info: Pages built
+2022-12-29T17:23:37.850Z - info: Site data built
+2022-12-29T17:23:37.850Z - info: Website generation complete! Total build time: 172.208s
+2022-12-29T17:23:37.850Z - info: Build success!
+2022-12-29T17:28:05.543Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2022-12-30T15:30:13.610Z - info: Website generation (lazy) started at 11:30:06 pm
+2022-12-30T15:30:29.297Z - info: Building assets...
+2022-12-30T15:30:38.151Z - info: Assets built
+2022-12-30T15:30:38.152Z - info: Generating landing page...
+2022-12-30T15:30:38.960Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-12-30T15:30:40.188Z - info: Site data built
+2022-12-30T15:30:40.188Z - info: Website generation (lazy) complete! Total build time: 33.198s
+2022-12-30T15:30:41.137Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-12-30T15:30:41.138Z - info: Press CTRL+C to stop ...
+2022-12-30T15:33:29.451Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview as some of its dependencies were changed since the last visit
+2022-12-30T15:33:30.154Z - info: Site data built
+2022-12-30T15:33:30.154Z - info: Lazy website regeneration complete! Total build time: 0.708s
+2022-12-30T15:35:08.870Z - info: [11:35:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\requirements\introduction\text.md
+2022-12-30T15:35:08.870Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:35:08.871Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:35:08.871Z - info: 1. admin/moduleOverview
+2022-12-30T15:35:08.905Z - info: [11:35:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview.md
+2022-12-30T15:35:08.905Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:35:08.905Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:35:08.905Z - info: 1. admin/moduleOverview
+2022-12-30T15:35:09.906Z - info: Assets built
+2022-12-30T15:35:09.908Z - info: Rebuilding 1 pages
+2022-12-30T15:35:10.241Z - info: Site data built
+2022-12-30T15:35:10.241Z - info: Pages rebuilt
+2022-12-30T15:35:10.242Z - info: Website regeneration complete! Total build time: 0.335s
+2022-12-30T15:37:05.689Z - info: [11:37:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview.md
+2022-12-30T15:37:05.689Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:37:05.689Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:37:05.689Z - info: 1. admin/moduleOverview
+2022-12-30T15:37:06.694Z - info: Rebuilding 1 pages
+2022-12-30T15:37:06.992Z - info: Site data built
+2022-12-30T15:37:06.993Z - info: Pages rebuilt
+2022-12-30T15:37:06.993Z - info: Website regeneration complete! Total build time: 0.3s
+2022-12-30T15:37:40.971Z - info: [11:37:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview.md
+2022-12-30T15:37:40.971Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:37:40.971Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:37:40.971Z - info: 1. admin/moduleOverview
+2022-12-30T15:37:41.978Z - info: Rebuilding 1 pages
+2022-12-30T15:37:42.360Z - info: Site data built
+2022-12-30T15:37:42.360Z - info: Pages rebuilt
+2022-12-30T15:37:42.360Z - info: Website regeneration complete! Total build time: 0.383s
+2022-12-30T15:40:01.272Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite as some of its dependencies were changed since the last visit
+2022-12-30T15:40:01.989Z - info: Site data built
+2022-12-30T15:40:01.989Z - info: Lazy website regeneration complete! Total build time: 0.717s
+2022-12-30T15:40:13.547Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2022-12-30T15:40:20.553Z - info: Site data built
+2022-12-30T15:40:20.554Z - info: Lazy website regeneration complete! Total build time: 7.007s
+2022-12-30T15:42:04.505Z - info: [11:42:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\about\usage.md
+2022-12-30T15:42:04.506Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:42:04.506Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:42:04.507Z - info: 1. schedule/timeline
+2022-12-30T15:42:04.507Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:42:05.520Z - info: Rebuilding 1 pages
+2022-12-30T15:42:06.041Z - info: Site data built
+2022-12-30T15:42:06.041Z - info: Pages rebuilt
+2022-12-30T15:42:06.041Z - info: Website regeneration complete! Total build time: 0.521s
+2022-12-30T15:42:59.599Z - info: [11:42:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite.md
+2022-12-30T15:42:59.600Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:42:59.600Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:42:59.600Z - info: 1. schedule/timeline
+2022-12-30T15:42:59.600Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:43:00.607Z - info: Rebuilding 1 pages
+2022-12-30T15:43:01.003Z - info: Site data built
+2022-12-30T15:43:01.003Z - info: Pages rebuilt
+2022-12-30T15:43:01.003Z - info: Website regeneration complete! Total build time: 0.397s
+2022-12-30T15:46:13.670Z - info: [11:46:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite.md
+2022-12-30T15:46:13.671Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:46:13.671Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:46:13.671Z - info: 1. schedule/timeline
+2022-12-30T15:46:13.671Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:46:14.678Z - info: Rebuilding 1 pages
+2022-12-30T15:46:15.048Z - info: Site data built
+2022-12-30T15:46:15.048Z - info: Pages rebuilt
+2022-12-30T15:46:15.048Z - info: Website regeneration complete! Total build time: 0.37s
+2022-12-30T15:46:59.764Z - info: [11:46:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-30T15:46:59.764Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:46:59.764Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:46:59.764Z - info: 1. schedule/timeline
+2022-12-30T15:46:59.764Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:47:00.787Z - info: Rebuilding 1 pages
+2022-12-30T15:47:01.141Z - info: Site data built
+2022-12-30T15:47:01.142Z - info: Pages rebuilt
+2022-12-30T15:47:01.142Z - info: Website regeneration complete! Total build time: 0.355s
+2022-12-30T15:48:43.453Z - info: [11:48:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations.md
+2022-12-30T15:48:43.453Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:48:43.453Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:48:43.453Z - info: 1. schedule/timeline
+2022-12-30T15:48:43.453Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:48:44.468Z - info: Rebuilding 1 pages
+2022-12-30T15:48:44.805Z - info: Site data built
+2022-12-30T15:48:44.805Z - info: Pages rebuilt
+2022-12-30T15:48:44.805Z - info: Website regeneration complete! Total build time: 0.338s
+2022-12-30T15:52:44.084Z - info: [11:52:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\about\usage.md
+2022-12-30T15:52:44.084Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:52:44.085Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:52:44.085Z - info: 1. schedule/timeline
+2022-12-30T15:52:44.085Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:52:45.101Z - info: Rebuilding 1 pages
+2022-12-30T15:52:45.450Z - info: Site data built
+2022-12-30T15:52:45.450Z - info: Pages rebuilt
+2022-12-30T15:52:45.451Z - info: Website regeneration complete! Total build time: 0.351s
+2022-12-30T15:53:05.929Z - info: [11:53:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\about\usage.md
+2022-12-30T15:53:05.930Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:53:05.930Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:53:05.930Z - info: 1. schedule/timeline
+2022-12-30T15:53:05.930Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:53:06.951Z - info: Rebuilding 1 pages
+2022-12-30T15:53:07.211Z - info: Site data built
+2022-12-30T15:53:07.212Z - info: Pages rebuilt
+2022-12-30T15:53:07.212Z - info: Website regeneration complete! Total build time: 0.262s
+2022-12-30T15:54:30.521Z - info: [11:54:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite.md
+2022-12-30T15:54:30.521Z - info: Synchronizing opened pages list before reload
+2022-12-30T15:54:30.521Z - info: Current opened pages, from most-to-least recent:
+2022-12-30T15:54:30.521Z - info: 1. schedule/timeline
+2022-12-30T15:54:30.521Z - info: 2. admin/usingThisWebsite
+2022-12-30T15:54:31.525Z - info: Rebuilding 1 pages
+2022-12-30T15:54:31.883Z - info: Site data built
+2022-12-30T15:54:31.883Z - info: Pages rebuilt
+2022-12-30T15:54:31.883Z - info: Website regeneration complete! Total build time: 0.359s
+2022-12-30T15:55:26.399Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations as some of its dependencies were changed since the last visit
+2022-12-30T15:55:26.618Z - info: Site data built
+2022-12-30T15:55:26.619Z - info: Lazy website regeneration complete! Total build time: 0.22s
+2022-12-30T15:56:43.369Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule as some of its dependencies were changed since the last visit
+2022-12-30T15:56:43.773Z - info: Site data built
+2022-12-30T15:56:43.773Z - info: Lazy website regeneration complete! Total build time: 0.404s
