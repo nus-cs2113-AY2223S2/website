@@ -291,7 +291,7 @@ by Patkos Csaba</li>
 <li>High-level modules should not depend on low-level modules. Both should depend on abstractions.</li>
 <li>Abstractions should not depend on details. Details should depend on abstractions.</li></ol></div></box>
 <box>
-<p>Example:</p>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Example:</p>
 <img src="/website/book/principles/dependencyInversionPrinciple/images/payrollEmployee.png" height="130">
 <p></p>
 <p>In design (a), the higher level class <code class="line-numbers hljs inline no-lang" v-pre>Payroll</code> depends on the lower level class <code class="line-numbers hljs inline no-lang" v-pre>Employee</code>, which is a violation of DIP. In design (b), both <code class="line-numbers hljs inline no-lang" v-pre>Payroll</code> and <code class="line-numbers hljs inline no-lang" v-pre>Employee</code> depend on the <code class="line-numbers hljs inline no-lang" v-pre>Payee</code> interface (note that inheritance is a dependency).</p>
