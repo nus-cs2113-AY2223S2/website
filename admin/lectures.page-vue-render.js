@@ -38,7 +38,7 @@ with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113 m--tic4001 m--tic
 with(this){return _c('p',[_c('strong',[_c('strong',[_v("Attendance")])]),_v(": Attendance for the "),_c('mark',[_v("first lecture is compulsory")]),_v(" (i.e., attend online or watch the recording).")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_c('strong',[_v("Handouts")])]),_v(": There are no handouts. All learning materials are organized around topics, are given in Web format, can be found in the "),_c('a',{attrs:{"href":"/website/se-book-adapted/index.html"}},[_v("Textbook")]),_v(" section (organized by topics), and are also embedded in the "),_c('span',[_c('a',{attrs:{"href":"/website/schedule/index.html"}},[_v("Schedule page")])]),_v(" (organized in the order they are covered).")])}
+with(this){return _c('p',[_c('strong',[_c('strong',[_v("Handouts")])]),_v(": There are no lecture handouts. All learning materials are organized around topics, are given in Web format, can be found in the "),_c('a',{attrs:{"href":"/website/se-book-adapted/index.html"}},[_v("Textbook")]),_v(" section (organized by topics), and are also embedded in the "),_c('span',[_c('a',{attrs:{"href":"/website/schedule/index.html"}},[_v("Schedule page")])]),_v(" (organized in the order they are covered).")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('strong',[_v("Slides")])]),_v(": Our lecture slides are not suited for printing or to be used as a reference during the lecture/exams. They are only an aid for lecture delivery. Slides will be uploaded to Canvas "),_c('em',[_v("after")]),_v(" the lecture.")])}
@@ -47,6 +47,6 @@ with(this){return _c('p',[_c('strong',[_c('strong',[_v("Slides")])]),_v(": Our l
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/weeklySchedule.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Weekly Schedule")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tutorials.html"}},[_c('span',[_v("Tutorials "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 5 Jan 2023, 11:31:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 6 Jan 2023, 17:18:19 GMT+8]")])])])}
 }];
   
