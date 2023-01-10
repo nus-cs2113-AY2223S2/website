@@ -1,0 +1,84 @@
+2023-01-10T09:38:16.979Z - info: Website generation (lazy) started at 5:38:16 pm
+2023-01-10T09:38:21.243Z - info: Building assets...
+2023-01-10T09:38:24.629Z - info: Assets built
+2023-01-10T09:38:24.630Z - info: Generating landing page...
+2023-01-10T09:38:25.538Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-01-10T09:38:27.177Z - info: Site data built
+2023-01-10T09:38:27.178Z - info: Website generation (lazy) complete! Total build time: 10.232s
+2023-01-10T09:38:28.053Z - info: Serving "D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_site" at http://127.0.0.1:8080
+2023-01-10T09:38:28.053Z - info: Press CTRL+C to stop ...
+2023-01-10T09:43:28.788Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week1\admin as some of its dependencies were changed since the last visit
+2023-01-10T09:43:31.747Z - info: Site data built
+2023-01-10T09:43:31.748Z - info: Lazy website regeneration complete! Total build time: 2.962s
+2023-01-10T09:43:33.941Z - debug:  
+2023-01-10T09:55:50.810Z - info: [5:55:50 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\faq-fragment.md
+2023-01-10T09:55:50.811Z - info: Synchronizing opened pages list before reload
+2023-01-10T09:55:50.811Z - info: Current opened pages, from most-to-least recent:
+2023-01-10T09:55:50.812Z - info: 1. schedule/week1/admin
+2023-01-10T09:55:51.850Z - info: Rebuilding 1 pages
+2023-01-10T09:55:54.622Z - info: Site data built
+2023-01-10T09:55:54.623Z - info: Pages rebuilt
+2023-01-10T09:55:54.623Z - info: Website regeneration complete! Total build time: 2.781s
+2023-01-10T09:55:55.250Z - debug:  
+2023-01-10T09:56:13.069Z - info: [5:56:13 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\faq-fragment.md
+2023-01-10T09:56:13.069Z - info: Synchronizing opened pages list before reload
+2023-01-10T09:56:13.069Z - info: Current opened pages, from most-to-least recent:
+2023-01-10T09:56:13.069Z - info: 1. schedule/week1/admin
+2023-01-10T09:56:14.084Z - info: Rebuilding 1 pages
+2023-01-10T09:56:17.124Z - info: Site data built
+2023-01-10T09:56:17.125Z - info: Pages rebuilt
+2023-01-10T09:56:17.125Z - info: Website regeneration complete! Total build time: 3.042s
+2023-01-10T09:56:17.981Z - debug:  
+2023-01-10T09:56:38.778Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week1\topics as some of its dependencies were changed since the last visit
+2023-01-10T09:56:38.979Z - info: Site data built
+2023-01-10T09:56:38.979Z - info: Lazy website regeneration complete! Total build time: 0.202s
+2023-01-10T09:56:45.683Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week1\project as some of its dependencies were changed since the last visit
+2023-01-10T09:56:46.311Z - info: Site data built
+2023-01-10T09:56:46.312Z - info: Lazy website regeneration complete! Total build time: 0.63s
+2023-01-10T09:56:46.966Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week1\project as some of its dependencies were changed since the last visit
+2023-01-10T09:56:47.105Z - info: Site data built
+2023-01-10T09:56:47.105Z - info: Lazy website regeneration complete! Total build time: 0.14s
+2023-01-10T09:56:50.526Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week1\tutorial as some of its dependencies were changed since the last visit
+2023-01-10T09:56:50.683Z - info: Site data built
+2023-01-10T09:56:50.684Z - info: Lazy website regeneration complete! Total build time: 0.158s
+2023-01-10T09:56:55.471Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week2\index as some of its dependencies were changed since the last visit
+2023-01-10T09:56:55.984Z - info: Site data built
+2023-01-10T09:56:55.984Z - info: Lazy website regeneration complete! Total build time: 0.514s
+2023-01-10T09:57:02.707Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week2\admin as some of its dependencies were changed since the last visit
+2023-01-10T09:57:03.303Z - info: Site data built
+2023-01-10T09:57:03.303Z - info: Lazy website regeneration complete! Total build time: 0.596s
+2023-01-10T10:02:35.902Z - info: [6:02:35 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\policies-fragment.md
+2023-01-10T10:02:35.902Z - info: Synchronizing opened pages list before reload
+2023-01-10T10:02:35.902Z - info: Current opened pages, from most-to-least recent:
+2023-01-10T10:02:35.902Z - info: 1. schedule/week2/admin
+2023-01-10T10:02:36.913Z - info: Rebuilding 1 pages
+2023-01-10T10:02:37.890Z - info: Site data built
+2023-01-10T10:02:37.890Z - info: Pages rebuilt
+2023-01-10T10:02:37.890Z - info: Website regeneration complete! Total build time: 0.978s
+2023-01-10T10:05:56.697Z - info: [6:05:56 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\common\admin.njk
+2023-01-10T10:05:56.698Z - info: Synchronizing opened pages list before reload
+2023-01-10T10:05:56.698Z - info: Current opened pages, from most-to-least recent:
+2023-01-10T10:05:56.698Z - info: 1. schedule/week2/admin
+2023-01-10T10:05:57.705Z - info: Rebuilding 1 pages
+2023-01-10T10:05:58.662Z - info: Site data built
+2023-01-10T10:05:58.662Z - info: Pages rebuilt
+2023-01-10T10:05:58.662Z - info: Website regeneration complete! Total build time: 0.96s
+2023-01-10T10:06:40.759Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week2\topics as some of its dependencies were changed since the last visit
+2023-01-10T10:06:43.590Z - info: Site data built
+2023-01-10T10:06:43.590Z - info: Lazy website regeneration complete! Total build time: 2.832s
+2023-01-10T10:07:16.790Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week2\project as some of its dependencies were changed since the last visit
+2023-01-10T10:07:17.848Z - info: Site data built
+2023-01-10T10:07:17.848Z - info: Lazy website regeneration complete! Total build time: 1.059s
+2023-01-10T10:09:59.798Z - info: [6:09:59 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\ip-tasks-fragment.md
+2023-01-10T10:09:59.800Z - info: Synchronizing opened pages list before reload
+2023-01-10T10:09:59.800Z - info: Current opened pages, from most-to-least recent:
+2023-01-10T10:09:59.800Z - info: 1. schedule/week2/project
+2023-01-10T10:10:00.805Z - info: Rebuilding 1 pages
+2023-01-10T10:10:01.832Z - info: Site data built
+2023-01-10T10:10:01.832Z - info: Pages rebuilt
+2023-01-10T10:10:01.833Z - info: Website regeneration complete! Total build time: 1.029s
+2023-01-10T10:10:49.086Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\schedule\week2\tutorial as some of its dependencies were changed since the last visit
+2023-01-10T10:10:49.312Z - info: Site data built
+2023-01-10T10:10:49.313Z - info: Lazy website regeneration complete! Total build time: 0.227s
+2023-01-10T10:11:43.540Z - info: Website generation started at 6:11:41 pm
+2023-01-10T10:11:48.436Z - info: Building assets...
