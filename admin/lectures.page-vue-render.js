@@ -17,7 +17,7 @@ with(this){return _c('h1',{attrs:{"id":"lectures"}},[_c('span',{staticClass:"anc
 with(this){return _c('p',[_c('strong',[_c('strong',[_v("Timing/venue")])]),_v(":")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Module")]),_v(" "),_c('th',[_v("Venue")]),_v(" "),_c('th',[_v("Time")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_v("CS2113/T")]),_v(" "),_c('td',[_v("ICube Auditorium")]),_v(" "),_c('td',[_c('strong',[_v("1400")]),_v("-1600")])]),_v(" "),_c('tr',[_c('td')])])])])])}
+with(this){return _c('div',[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Module")]),_v(" "),_c('th',[_v("Venue")]),_v(" "),_c('th',[_v("Time")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_v("CS2113/T")]),_v(" "),_c('td',[_v("ICube Auditorium")]),_v(" "),_c('td',[_c('strong',[_v("1600")]),_v("-1800")])]),_v(" "),_c('tr',[_c('td')])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('p',[_v("Lectures start on time sharp and end around 10-15 minutes before official end time.")])])}
@@ -44,6 +44,6 @@ with(this){return _c('p',[_c('strong',[_c('strong',[_v("Slides")])]),_v(": Our l
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/weeklySchedule.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Weekly Schedule")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tutorials.html"}},[_c('span',[_v("Tutorials "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 10 Jan 2023, 18:11:52 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 12 Jan 2023, 22:47:53 GMT+8]")])])])}
 }];
   
