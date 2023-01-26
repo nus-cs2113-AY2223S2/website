@@ -8,12 +8,12 @@
 <variable name="S">2</variable>
 <variable name="semester">AY2223S{{ S }}</variable>
 <variable name="period">2023 Jan-Apr</variable>
-<variable name="current_week">1</variable>
+<variable name="current_week">3</variable>
 
 <variable name="algolia">yes</variable>
 
 <variable name="canvas_course_id">36683</variable>
-<variable name="url_instructors">https://docs.google.com/document/d/e/2PACX-1vQ3yMfxtxatSX5XxWnZparVJN9UkEOu504YHyShketpCzdqQth4JDcwQwhWvOBi-XH8-gkdgMgGpg1t/pub?embedded=true</variable>
+<variable name="url_instructors">https://docs.google.com/document/d/e/2PACX-1vQEOJFuLXukYy_cI4vJJAMLpWTCZnKngM6OrwAdcrBwFRkxW1a3-fohwVl2ThHmCglLy8nJg_4K8yMo/pub?embedded=true</variable>
 <variable name="url_coursemology_classroom">https://coursemology.org/courses/2456</variable>
 <variable name="url_ms_teams_class">https://teams.microsoft.com/l/team/19%3aGYEOwRiePcde8ZevrQ9dQak9uGi8bTZSqdB_ezsCQVk1%40thread.tacv2/conversations?groupId=de8b2b1f-6604-49d5-911a-abb688d0d103&tenantId=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82</variable>
 
