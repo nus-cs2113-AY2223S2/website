@@ -1,0 +1,142 @@
+2023-01-26T16:41:49.849Z - info: Website generation (lazy) started at 12:41:41 am
+2023-01-26T16:41:55.829Z - info: Building assets...
+2023-01-26T16:42:00.727Z - info: Assets built
+2023-01-26T16:42:00.730Z - info: Generating landing page...
+2023-01-26T16:42:03.692Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-01-26T16:42:05.524Z - info: Site data built
+2023-01-26T16:42:05.525Z - info: Website generation (lazy) complete! Total build time: 24.221s
+2023-01-26T16:42:07.196Z - info: Serving "D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_site" at http://127.0.0.1:8080
+2023-01-26T16:42:07.196Z - info: Press CTRL+C to stop ...
+2023-01-26T16:42:17.102Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tutorials as some of its dependencies were changed since the last visit
+2023-01-26T16:42:17.672Z - info: Site data built
+2023-01-26T16:42:17.673Z - info: Lazy website regeneration complete! Total build time: 0.572s
+2023-01-26T16:43:22.645Z - info: [12:43:22 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:43:22.646Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:43:22.647Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:43:22.647Z - info: 1. admin/tutorials
+2023-01-26T16:43:23.678Z - info: Rebuilding 1 pages
+2023-01-26T16:43:24.702Z - info: Site data built
+2023-01-26T16:43:24.703Z - info: Pages rebuilt
+2023-01-26T16:43:24.703Z - info: Website regeneration complete! Total build time: 1.028s
+2023-01-26T16:43:38.814Z - info: [12:43:38 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:43:38.814Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:43:38.814Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:43:38.815Z - info: 1. admin/tutorials
+2023-01-26T16:43:39.820Z - info: Rebuilding 1 pages
+2023-01-26T16:43:40.773Z - info: Site data built
+2023-01-26T16:43:40.773Z - info: Pages rebuilt
+2023-01-26T16:43:40.773Z - info: Website regeneration complete! Total build time: 0.955s
+2023-01-26T16:44:07.925Z - info: [12:44:07 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:44:07.925Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:44:07.926Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:44:07.927Z - info: 1. admin/tutorials
+2023-01-26T16:44:08.939Z - info: Rebuilding 1 pages
+2023-01-26T16:44:09.230Z - info: Site data built
+2023-01-26T16:44:09.231Z - info: Pages rebuilt
+2023-01-26T16:44:09.231Z - info: Website regeneration complete! Total build time: 0.293s
+2023-01-26T16:44:18.431Z - info: [12:44:18 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:44:18.431Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:44:18.432Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:44:18.432Z - info: 1. admin/tutorials
+2023-01-26T16:44:19.444Z - info: Rebuilding 1 pages
+2023-01-26T16:44:19.642Z - info: Site data built
+2023-01-26T16:44:19.642Z - info: Pages rebuilt
+2023-01-26T16:44:19.642Z - info: Website regeneration complete! Total build time: 0.2s
+2023-01-26T16:44:32.030Z - info: [12:44:32 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:44:32.030Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:44:32.031Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:44:32.031Z - info: 1. admin/tutorials
+2023-01-26T16:44:33.037Z - info: Rebuilding 1 pages
+2023-01-26T16:44:33.279Z - info: Site data built
+2023-01-26T16:44:33.279Z - info: Pages rebuilt
+2023-01-26T16:44:33.279Z - info: Website regeneration complete! Total build time: 0.244s
+2023-01-26T16:45:43.493Z - info: [12:45:43 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tutorials.md
+2023-01-26T16:45:43.493Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:45:43.493Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:45:43.494Z - info: 1. admin/tutorials
+2023-01-26T16:45:44.516Z - info: Rebuilding 1 pages
+2023-01-26T16:45:44.820Z - info: Site data built
+2023-01-26T16:45:44.820Z - info: Pages rebuilt
+2023-01-26T16:45:44.820Z - info: Website regeneration complete! Total build time: 0.307s
+2023-01-26T16:46:22.356Z - info: [12:46:22 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tutorials.md
+2023-01-26T16:46:22.356Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:46:22.356Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:46:22.356Z - info: 1. admin/tutorials
+2023-01-26T16:46:23.361Z - info: Rebuilding 1 pages
+2023-01-26T16:46:23.821Z - info: Site data built
+2023-01-26T16:46:23.821Z - info: Pages rebuilt
+2023-01-26T16:46:23.822Z - info: Website regeneration complete! Total build time: 0.46s
+2023-01-26T16:46:37.071Z - info: [12:46:37 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tutorials.md
+2023-01-26T16:46:37.071Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:46:37.071Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:46:37.071Z - info: 1. admin/tutorials
+2023-01-26T16:46:38.076Z - info: Rebuilding 1 pages
+2023-01-26T16:46:38.357Z - info: Site data built
+2023-01-26T16:46:38.358Z - info: Pages rebuilt
+2023-01-26T16:46:38.358Z - info: Website regeneration complete! Total build time: 0.285s
+2023-01-26T16:46:44.040Z - info: [12:46:44 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tutorials.md
+2023-01-26T16:46:44.040Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:46:44.040Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:46:44.041Z - info: 1. admin/tutorials
+2023-01-26T16:46:45.054Z - info: Rebuilding 1 pages
+2023-01-26T16:46:45.506Z - info: Site data built
+2023-01-26T16:46:45.506Z - info: Pages rebuilt
+2023-01-26T16:46:45.506Z - info: Website regeneration complete! Total build time: 0.455s
+2023-01-26T16:47:07.637Z - info: [12:47:07 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:47:07.637Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:47:07.637Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:47:07.637Z - info: 1. admin/tutorials
+2023-01-26T16:47:08.647Z - info: Rebuilding 1 pages
+2023-01-26T16:47:08.924Z - info: Site data built
+2023-01-26T16:47:08.925Z - info: Pages rebuilt
+2023-01-26T16:47:08.925Z - info: Website regeneration complete! Total build time: 0.279s
+2023-01-26T16:49:15.242Z - info: [12:49:15 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:49:15.242Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:49:15.243Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:49:15.243Z - info: 1. admin/tutorials
+2023-01-26T16:49:16.247Z - info: Rebuilding 1 pages
+2023-01-26T16:49:16.661Z - info: Site data built
+2023-01-26T16:49:16.662Z - info: Pages rebuilt
+2023-01-26T16:49:16.662Z - info: Website regeneration complete! Total build time: 0.416s
+2023-01-26T16:57:33.747Z - info: [12:57:33 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:57:33.748Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:57:33.748Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:57:33.748Z - info: 1. admin/tutorials
+2023-01-26T16:57:34.757Z - info: Rebuilding 1 pages
+2023-01-26T16:57:34.981Z - info: Site data built
+2023-01-26T16:57:34.981Z - info: Pages rebuilt
+2023-01-26T16:57:34.982Z - info: Website regeneration complete! Total build time: 0.225s
+2023-01-26T16:57:46.534Z - info: [12:57:46 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:57:46.534Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:57:46.534Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:57:46.534Z - info: 1. admin/tutorials
+2023-01-26T16:57:47.536Z - info: Rebuilding 1 pages
+2023-01-26T16:57:47.736Z - info: Site data built
+2023-01-26T16:57:47.736Z - info: Pages rebuilt
+2023-01-26T16:57:47.736Z - info: Website regeneration complete! Total build time: 0.201s
+2023-01-26T16:57:58.158Z - info: [12:57:58 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:57:58.158Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:57:58.159Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:57:58.159Z - info: 1. admin/tutorials
+2023-01-26T16:57:59.168Z - info: Rebuilding 1 pages
+2023-01-26T16:57:59.443Z - info: Site data built
+2023-01-26T16:57:59.443Z - info: Pages rebuilt
+2023-01-26T16:57:59.443Z - info: Website regeneration complete! Total build time: 0.275s
+2023-01-26T16:58:02.163Z - info: [12:58:02 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:58:02.164Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:58:02.164Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:58:02.164Z - info: 1. admin/tutorials
+2023-01-26T16:58:03.175Z - info: Rebuilding 1 pages
+2023-01-26T16:58:03.411Z - info: Site data built
+2023-01-26T16:58:03.411Z - info: Pages rebuilt
+2023-01-26T16:58:03.412Z - info: Website regeneration complete! Total build time: 0.24s
+2023-01-26T16:59:35.381Z - info: [12:59:35 am] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\timetables-fragment.md
+2023-01-26T16:59:35.381Z - info: Synchronizing opened pages list before reload
+2023-01-26T16:59:35.382Z - info: Current opened pages, from most-to-least recent:
+2023-01-26T16:59:35.382Z - info: 1. admin/tutorials
+2023-01-26T16:59:36.397Z - info: Rebuilding 1 pages
+2023-01-26T16:59:36.671Z - info: Site data built
+2023-01-26T16:59:36.672Z - info: Pages rebuilt
+2023-01-26T16:59:36.672Z - info: Website regeneration complete! Total build time: 0.277s
+2023-01-26T17:01:05.795Z - info: Website generation started at 1:01:02 am
+2023-01-26T17:01:10.441Z - info: Building assets...
