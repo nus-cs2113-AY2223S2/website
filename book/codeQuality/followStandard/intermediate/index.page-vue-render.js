@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"intermediate"}},[_c('span',{st
 with(this){return _c('div',[_c('p',[_v("Go through the "),_c('a',{attrs:{"href":"https://se-education.org/guides/conventions/java/intermediate.html"}},[_v("Java coding standard at @SE-EDU")]),_v(" and learn the "),_c('em',[_v("intermediate")]),_v(" style rules.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 5 Mar 2023, 22:18:17 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 7 Mar 2023, 16:34:07 GMT+8]")])])])}
 }];
   
