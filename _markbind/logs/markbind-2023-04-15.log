@@ -1,0 +1,65 @@
+2023-04-15T04:13:41.249Z - info: Website generation (lazy) started at 12:13:34 pm
+2023-04-15T04:13:47.836Z - info: Building assets...
+2023-04-15T04:13:58.804Z - info: Assets built
+2023-04-15T04:13:58.806Z - info: Generating landing page...
+2023-04-15T04:14:01.666Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-04-15T04:14:04.332Z - info: Site data built
+2023-04-15T04:14:04.332Z - info: Website generation (lazy) complete! Total build time: 30.194s
+2023-04-15T04:14:05.292Z - info: Serving "D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_site" at http://127.0.0.1:8080
+2023-04-15T04:14:05.293Z - info: Press CTRL+C to stop ...
+2023-04-15T04:14:17.394Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\index as some of its dependencies were changed since the last visit
+2023-04-15T04:14:17.850Z - info: Site data built
+2023-04-15T04:14:17.851Z - info: Lazy website regeneration complete! Total build time: 0.457s
+2023-04-15T04:14:24.848Z - info: Building D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tp-pe as some of its dependencies were changed since the last visit
+2023-04-15T04:14:26.724Z - info: Site data built
+2023-04-15T04:14:26.725Z - info: Lazy website regeneration complete! Total build time: 1.878s
+2023-04-15T04:14:43.429Z - info: [12:14:43 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\weeklyTpTasks-fragment.md
+2023-04-15T04:14:43.430Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:14:43.430Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:14:43.430Z - info: 1. admin/tp-pe
+2023-04-15T04:14:44.736Z - info: Rebuilding 1 pages
+2023-04-15T04:14:48.031Z - info: Site data built
+2023-04-15T04:14:48.032Z - info: Pages rebuilt
+2023-04-15T04:14:48.033Z - info: Website regeneration complete! Total build time: 3.299s
+2023-04-15T04:16:04.823Z - info: [12:16:04 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\weeklyTpTasks-fragment.md
+2023-04-15T04:16:04.824Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:16:04.825Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:16:04.825Z - info: 1. admin/tp-pe
+2023-04-15T04:16:06.188Z - info: Rebuilding 1 pages
+2023-04-15T04:16:07.980Z - info: Site data built
+2023-04-15T04:16:07.981Z - info: Pages rebuilt
+2023-04-15T04:16:07.981Z - info: Website regeneration complete! Total build time: 1.794s
+2023-04-15T04:17:01.083Z - info: [12:17:01 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\weeklyTpTasks-fragment.md
+2023-04-15T04:17:01.083Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:17:01.083Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:17:01.084Z - info: 1. admin/tp-pe
+2023-04-15T04:17:02.391Z - info: Rebuilding 1 pages
+2023-04-15T04:17:05.024Z - info: Site data built
+2023-04-15T04:17:05.024Z - info: Pages rebuilt
+2023-04-15T04:17:05.025Z - info: Website regeneration complete! Total build time: 2.634s
+2023-04-15T04:23:04.913Z - info: [12:23:04 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\weeklyTpTasks-fragment.md
+2023-04-15T04:23:04.913Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:23:04.914Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:23:04.914Z - info: 1. admin/tp-pe
+2023-04-15T04:23:06.209Z - info: Rebuilding 1 pages
+2023-04-15T04:23:08.205Z - info: Site data built
+2023-04-15T04:23:08.205Z - info: Pages rebuilt
+2023-04-15T04:23:08.205Z - info: Website regeneration complete! Total build time: 1.997s
+2023-04-15T04:26:14.841Z - info: [12:26:14 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\_module-CS2113\weeklyTpTasks-fragment.md
+2023-04-15T04:26:14.842Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:26:14.842Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:26:14.843Z - info: 1. admin/tp-pe
+2023-04-15T04:26:16.144Z - info: Rebuilding 1 pages
+2023-04-15T04:26:17.948Z - info: Site data built
+2023-04-15T04:26:17.949Z - info: Pages rebuilt
+2023-04-15T04:26:17.949Z - info: Website regeneration complete! Total build time: 1.806s
+2023-04-15T04:29:22.235Z - info: [12:29:22 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S2\ay2223s2-website\admin\tp-pe-fragment.md
+2023-04-15T04:29:22.236Z - info: Synchronizing opened pages list before reload
+2023-04-15T04:29:22.236Z - info: Current opened pages, from most-to-least recent:
+2023-04-15T04:29:22.237Z - info: 1. admin/tp-pe
+2023-04-15T04:29:23.257Z - info: Rebuilding 1 pages
+2023-04-15T04:29:25.569Z - info: Site data built
+2023-04-15T04:29:25.569Z - info: Pages rebuilt
+2023-04-15T04:29:25.569Z - info: Website regeneration complete! Total build time: 2.315s
+2023-04-15T04:30:27.826Z - info: Website generation started at 12:30:25 pm
+2023-04-15T04:30:33.387Z - info: Building assets...
